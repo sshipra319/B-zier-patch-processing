@@ -1,5 +1,4 @@
 # Shipra Saini
-# sxs2152
 # 2018-12-04
 
 import sys
